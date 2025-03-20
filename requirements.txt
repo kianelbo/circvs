@@ -1,0 +1,5 @@
+torch==2.5.1+cu121
+auto_circuit==1.0.1
+transformer_lens=2.15.0
+matplotlib==3.7.5
+networkx==3.4.2
